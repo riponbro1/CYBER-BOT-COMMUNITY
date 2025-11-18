@@ -2,7 +2,7 @@ module.exports.config = {
   name: "appstate",
   version: "1.0.0",
   hasPermssion: 2,
-  credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
+  credits: "★彡[ʀɪᴘᴏɴ~ʙʀᴏ~ʙᴏᴛ]彡★",
   description: "refresh appstate.json",
   commandCategory: "Admin",
   usages: "appstate",
